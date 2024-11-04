@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iteciodu.github.io/ImP/sitemap_index.txt
+Sitemap: https://iteciodu.github.io/aSt/sitemap_index.txt
+Sitemap: https://iteciodu.github.io/nei/sitemap_index.txt
+Sitemap: https://iteciodu.github.io/sgZ/sitemap_index.txt
